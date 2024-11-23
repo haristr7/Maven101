@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-18T14:16:31 IST" name="Suite" finished-at="2024-11-18T14:16:55 IST" duration-ms="23812">
+    <groups>
+    </groups>
+    <test started-at="2024-11-18T14:16:31 IST" name="Test" finished-at="2024-11-18T14:16:55 IST" duration-ms="23812">
+      <class name="com.TestNG.CrossBrowserTesting">
+        <test-method signature="firefoxBrowser()[pri:1, instance:com.TestNG.CrossBrowserTesting@54e1c68b]" started-at="2024-11-18T14:16:31 IST" name="firefoxBrowser" finished-at="2024-11-18T14:16:44 IST" duration-ms="13558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxBrowser -->
+        <test-method signature="edgeBrowser()[pri:2, instance:com.TestNG.CrossBrowserTesting@54e1c68b]" started-at="2024-11-18T14:16:44 IST" name="edgeBrowser" finished-at="2024-11-18T14:16:50 IST" duration-ms="5855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edgeBrowser -->
+        <test-method signature="chromeBrowser()[pri:3, instance:com.TestNG.CrossBrowserTesting@54e1c68b]" started-at="2024-11-18T14:16:50 IST" name="chromeBrowser" finished-at="2024-11-18T14:16:55 IST" duration-ms="4303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeBrowser -->
+      </class> <!-- com.TestNG.CrossBrowserTesting -->
+      <class name="com.TestNG.SimpleAnnotations">
+        <test-method is-config="true" signature="propertySetting()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:31 IST" name="propertySetting" finished-at="2024-11-18T14:16:31 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertySetting -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:31 IST" name="browserLaunch" finished-at="2024-11-18T14:16:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="urlLaunch" finished-at="2024-11-18T14:16:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="login" finished-at="2024-11-18T14:16:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="kids()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="kids" finished-at="2024-11-18T14:16:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kids -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="logout" finished-at="2024-11-18T14:16:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="login" finished-at="2024-11-18T14:16:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="men()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="men" finished-at="2024-11-18T14:16:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- men -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="logout" finished-at="2024-11-18T14:16:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="women()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="women" finished-at="2024-11-18T14:16:55 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- women -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="login" finished-at="2024-11-18T14:16:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="logout" finished-at="2024-11-18T14:16:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="screenshot()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="screenshot" finished-at="2024-11-18T14:16:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="closebrowser" finished-at="2024-11-18T14:16:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:com.TestNG.SimpleAnnotations@7526515b]" started-at="2024-11-18T14:16:55 IST" name="terminateBrowser" finished-at="2024-11-18T14:16:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- com.TestNG.SimpleAnnotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
